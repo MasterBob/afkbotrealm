@@ -1,0 +1,7 @@
+p::
+loop
+{
+Send /server
+Send {Enter}
+Sleep 50000
+}
